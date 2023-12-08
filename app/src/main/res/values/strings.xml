@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpiceSens</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="remove_photo">Hapus Foto</string>
+    <string name="add_photo">Tambah Foto</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
